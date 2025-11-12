@@ -4,8 +4,7 @@
 
 Este projeto implementa o problema clássico de **Produtor–Consumidor**, também conhecido como **Oferta e Procura**, utilizando a linguagem **Java**. O objetivo é demonstrar, de forma prática, conceitos de **concorrência, sincronização de processos e gerenciamento de recursos** estudados na disciplina de **Sistemas Operacionais**.
 
-O sistema simula um ambiente em que múltiplas threads produtoras e consumidoras compartilham um recurso limitado (um buffer de 7 posições).  
-A comunicação e sincronização entre as threads são controladas por **semáforos** e um **mutex (ReentrantLock)**, garantindo exclusão mútua e evitando condições de corrida.
+O sistema simula um ambiente em que múltiplas threads produtoras e consumidoras compartilham um recurso limitado (um buffer de 7 posições). A comunicação e sincronização entre as threads são controladas por **semáforos** e um **mutex (ReentrantLock)**, garantindo exclusão mútua e evitando condições de corrida.
 
 ---
 

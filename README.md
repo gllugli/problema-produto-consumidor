@@ -97,5 +97,4 @@ O sistema deve executar sem interrupções ou conflitos de acesso, demonstrando 
 
 ## Conclusão
 
-Este projeto permitiu a aplicação prática de diversos conteúdos da disciplina de **Sistemas Operacionais**, como concorrência, gerenciamento de memória, sincronização e controle de E/S.  
-A implementação em Java possibilitou observar, de forma concreta, como o sistema operacional organiza e coordena múltiplas atividades para garantir desempenho e segurança no acesso aos recursos.
+Este projeto permitiu a aplicação prática de diversos conteúdos da disciplina de **Sistemas Operacionais**, como concorrência, gerenciamento de memória, sincronização e controle de E/S. A implementação em Java possibilitou observar, de forma concreta, como o sistema operacional organiza e coordena múltiplas atividades para garantir desempenho e segurança no acesso aos recursos.
